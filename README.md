@@ -7,9 +7,15 @@ Once upon a time...
 
 ## Experiment
 
-## Discussion
+### Experimental setup
+
+### Conducting the experiment
+By conducting the experiment, we had some issues with...
+
+### Discussion
 
 ## Conclusion 
+
 
 ## Bibliography
 
