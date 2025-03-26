@@ -7,13 +7,18 @@ Once upon a time...
 
 ## Experiment
 
-The setup of the experiment was... 
-We conducted... 
+### Experimental setup
+The setup of the experiment was...
+
+### Conducting the experiment
+By conducting the experiment, we had some issues with...
+
+### Discussion
 There were some difficulties with...
 
-## Discussion
 
 ## Conclusion 
+
 
 ## Bibliography
 
